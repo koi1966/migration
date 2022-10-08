@@ -1,4 +1,4 @@
-package models;
+package migration.sybase.data.models;
 
 
 import lombok.extern.slf4j.Slf4j;
